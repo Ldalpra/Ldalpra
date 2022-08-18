@@ -1,5 +1,5 @@
 - 👋 Hi, I’m louis dalpra
-- 🌱 I’m currently a PhD student at the university of Strasbourg
+- 🌱 I’m currently a PhD student in Economics at the university of Strasbourg
 - 📫 reach me at l.dalpra@unistra.fr
 
 <!---
